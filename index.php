@@ -23,8 +23,5 @@
     <a href="borrar1.php" class button></a>
     </div>  
 	
-        <?php 
-        include("logeo.php");
-        ?>
 </body>
 </html>
